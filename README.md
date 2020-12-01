@@ -1,6 +1,6 @@
 # Video Handler
 
-Run ./start.sh
+Run `./start.sh`
 
 ## TODO: 
 
